@@ -28,4 +28,5 @@ reassignment_reason: a more detailed reason for the reassignment
 session_time: total time the rider had been online on order_date before order_time
 
 ### Final Results -  
-Ranked 96 out of nearly 200 teams
+Ranked 96 out of nearly 200 teams  
+Built a model with 64% accuracy score
